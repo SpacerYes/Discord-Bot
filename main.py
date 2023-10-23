@@ -4,7 +4,7 @@ import discord
 import socket
 import requests
 
-BOT_TOKEN = "MTE2NTc4NDk3NDk1MjI0MzMxMg.GD-JTx.NUSHpK0D4WdMs1nWxulU58M4V5YmnNuhYzP_Vk"
+BOT_TOKEN = "MTE2NTc4NDk3NDk1MjI0MzMxMg.Gc1Mw9.0RQmruaf58Rm4WcQD4X05DszbdiZfDZH_YwNKc"
 ADMIN_CHANNEL_NAME = "pri"
 GENERAL_CHANNEL_NAME = "general"
 
